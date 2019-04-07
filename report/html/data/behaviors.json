@@ -1,0 +1,129 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "修改密码模块",
+    "children" : [ {
+      "name" : "修改密码成功",
+      "children" : [ {
+        "name" : "D:\\Python\\pytestAPI\\testcase\\sys.test_sys_changePwd.Test_changePwd.test_changePwd",
+        "uid" : "674b5cdd42853eab",
+        "parentUid" : "a38462b3f4314282ccc0eb63786aa59e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608567075,
+          "stop" : 1554608567262,
+          "duration" : 187
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "a38462b3f4314282ccc0eb63786aa59e"
+    } ],
+    "uid" : "305a3b4fed53266ad019359911e11777"
+  }, {
+    "name" : "登录模块",
+    "children" : [ {
+      "name" : "登录成功",
+      "children" : [ {
+        "name" : "D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_success",
+        "uid" : "6a8ce479636ebcdc",
+        "parentUid" : "57a00934f1bd353362aa1d78642bc405",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608567345,
+          "stop" : 1554608567501,
+          "duration" : 156
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "57a00934f1bd353362aa1d78642bc405"
+    }, {
+      "name" : "密码错误时登录",
+      "children" : [ {
+        "name" : "D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_passwordError",
+        "uid" : "114c4d1ed454e210",
+        "parentUid" : "e110715532cbd005e4b171459c248192",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608567502,
+          "stop" : 1554608567552,
+          "duration" : 50
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e110715532cbd005e4b171459c248192"
+    }, {
+      "name" : "用户名不存在时登录",
+      "children" : [ {
+        "name" : "D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_username_not_exists",
+        "uid" : "c2c4c9302864aa4b",
+        "parentUid" : "eeafd8921debda7235f5a6bcfc76af32",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608567552,
+          "stop" : 1554608567580,
+          "duration" : 28
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "eeafd8921debda7235f5a6bcfc76af32"
+    }, {
+      "name" : "用户名为空时登录",
+      "children" : [ {
+        "name" : "D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_username_null",
+        "uid" : "8b99027c0276c83",
+        "parentUid" : "61d0c8fad0ddb2623743cc40395639bf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608567581,
+          "stop" : 1554608567629,
+          "duration" : 48
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "61d0c8fad0ddb2623743cc40395639bf"
+    }, {
+      "name" : "用户名参数不存在时登录",
+      "children" : [ {
+        "name" : "D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_usernameParm_not_exist",
+        "uid" : "a4f5a49d4239363f",
+        "parentUid" : "03a3084e4b4e8004e87d350bc7790373",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608567630,
+          "stop" : 1554608567660,
+          "duration" : 30
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "03a3084e4b4e8004e87d350bc7790373"
+    } ],
+    "uid" : "6958045a481574bf02bb11ef07a7047b"
+  }, {
+    "name" : "展示用户信息模块",
+    "children" : [ {
+      "name" : "注册成功",
+      "children" : [ {
+        "name" : "D:\\Python\\pytestAPI\\testcase\\user.test_user_loadUserList.Test_loadUserList.test_register",
+        "uid" : "bd70fee7a2f7070",
+        "parentUid" : "87d13cf27b9d0fc7a95d02e49677f218",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554608567661,
+          "stop" : 1554608567911,
+          "duration" : 250
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "87d13cf27b9d0fc7a95d02e49677f218"
+    } ],
+    "uid" : "1b1e5a20cb705ffde14e39217e322362"
+  } ]
+}

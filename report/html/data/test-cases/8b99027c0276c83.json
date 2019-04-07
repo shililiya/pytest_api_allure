@@ -1,0 +1,66 @@
+{
+  "uid" : "8b99027c0276c83",
+  "name" : "D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_username_null",
+  "fullName" : "testcase.D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_username_null",
+  "historyId" : "47a7f64dbe88f235400a39823766ccde",
+  "time" : {
+    "start" : 1554608567581,
+    "stop" : 1554608567629,
+    "duration" : 48
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-QBQQHD37"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "用户名为空时登录"
+  }, {
+    "name" : "thread",
+    "value" : "1796-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_username_null"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8b99027c0276c83.json",
+  "parameterValues" : [ ]
+}

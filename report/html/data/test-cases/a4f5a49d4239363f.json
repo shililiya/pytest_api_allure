@@ -1,0 +1,66 @@
+{
+  "uid" : "a4f5a49d4239363f",
+  "name" : "D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_usernameParm_not_exist",
+  "fullName" : "testcase.D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_usernameParm_not_exist",
+  "historyId" : "113b37744b91640f8e781092c5cd05ad",
+  "time" : {
+    "start" : 1554608567630,
+    "stop" : 1554608567660,
+    "duration" : 30
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-QBQQHD37"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "用户名参数不存在时登录"
+  }, {
+    "name" : "thread",
+    "value" : "1796-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_usernameParm_not_exist"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a4f5a49d4239363f.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,66 @@
+{
+  "uid" : "114c4d1ed454e210",
+  "name" : "D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_passwordError",
+  "fullName" : "testcase.D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_passwordError",
+  "historyId" : "9e9ee183bff265b08c96a3aa7b2bb084",
+  "time" : {
+    "start" : 1554608567502,
+    "stop" : 1554608567552,
+    "duration" : 50
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "登录模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-QBQQHD37"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "密码错误时登录"
+  }, {
+    "name" : "thread",
+    "value" : "1796-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_passwordError"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "114c4d1ed454e210.json",
+  "parameterValues" : [ ]
+}

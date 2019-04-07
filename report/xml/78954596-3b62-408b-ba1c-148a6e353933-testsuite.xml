@@ -1,0 +1,104 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1554608567075" stop="1554608567911">
+  <name>testcase</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1554608567075" status="passed" stop="1554608567262">
+      <name>D:\Python\pytestAPI\testcase\sys.test_sys_changePwd.Test_changePwd.test_changePwd</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="修改密码成功"/>
+        <label name="feature" value="修改密码模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1796-MainThread"/>
+        <label name="host" value="LAPTOP-QBQQHD37"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608567345" status="passed" stop="1554608567501">
+      <name>D:\Python\pytestAPI\testcase\sys.test_sys_login.Test_login.test_login_success</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="登录成功"/>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1796-MainThread"/>
+        <label name="host" value="LAPTOP-QBQQHD37"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608567502" status="passed" stop="1554608567552">
+      <name>D:\Python\pytestAPI\testcase\sys.test_sys_login.Test_login.test_login_passwordError</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="密码错误时登录"/>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1796-MainThread"/>
+        <label name="host" value="LAPTOP-QBQQHD37"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608567552" status="passed" stop="1554608567580">
+      <name>D:\Python\pytestAPI\testcase\sys.test_sys_login.Test_login.test_login_username_not_exists</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="用户名不存在时登录"/>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1796-MainThread"/>
+        <label name="host" value="LAPTOP-QBQQHD37"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608567581" status="passed" stop="1554608567629">
+      <name>D:\Python\pytestAPI\testcase\sys.test_sys_login.Test_login.test_login_username_null</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="用户名为空时登录"/>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1796-MainThread"/>
+        <label name="host" value="LAPTOP-QBQQHD37"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608567630" status="passed" stop="1554608567660">
+      <name>D:\Python\pytestAPI\testcase\sys.test_sys_login.Test_login.test_login_usernameParm_not_exist</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="用户名参数不存在时登录"/>
+        <label name="feature" value="登录模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1796-MainThread"/>
+        <label name="host" value="LAPTOP-QBQQHD37"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554608567661" status="passed" stop="1554608567911">
+      <name>D:\Python\pytestAPI\testcase\user.test_user_loadUserList.Test_loadUserList.test_register</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="注册成功"/>
+        <label name="feature" value="展示用户信息模块"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="1796-MainThread"/>
+        <label name="host" value="LAPTOP-QBQQHD37"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

@@ -1,0 +1,66 @@
+{
+  "uid" : "bd70fee7a2f7070",
+  "name" : "D:\\Python\\pytestAPI\\testcase\\user.test_user_loadUserList.Test_loadUserList.test_register",
+  "fullName" : "testcase.D:\\Python\\pytestAPI\\testcase\\user.test_user_loadUserList.Test_loadUserList.test_register",
+  "historyId" : "9d13554d783c3ae661e7dd1fcbb75fe0",
+  "time" : {
+    "start" : 1554608567661,
+    "stop" : 1554608567911,
+    "duration" : 250
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "展示用户信息模块"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-QBQQHD37"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "注册成功"
+  }, {
+    "name" : "thread",
+    "value" : "1796-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "D:\\Python\\pytestAPI\\testcase\\user.test_user_loadUserList.Test_loadUserList.test_register"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bd70fee7a2f7070.json",
+  "parameterValues" : [ ]
+}

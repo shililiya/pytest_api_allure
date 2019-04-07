@@ -1,0 +1,71 @@
+[ {
+  "uid" : "c2c4c9302864aa4b",
+  "name" : "D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_username_not_exists",
+  "time" : {
+    "start" : 1554608567552,
+    "stop" : 1554608567580,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bd70fee7a2f7070",
+  "name" : "D:\\Python\\pytestAPI\\testcase\\user.test_user_loadUserList.Test_loadUserList.test_register",
+  "time" : {
+    "start" : 1554608567661,
+    "stop" : 1554608567911,
+    "duration" : 250
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b99027c0276c83",
+  "name" : "D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_username_null",
+  "time" : {
+    "start" : 1554608567581,
+    "stop" : 1554608567629,
+    "duration" : 48
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "114c4d1ed454e210",
+  "name" : "D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_passwordError",
+  "time" : {
+    "start" : 1554608567502,
+    "stop" : 1554608567552,
+    "duration" : 50
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "674b5cdd42853eab",
+  "name" : "D:\\Python\\pytestAPI\\testcase\\sys.test_sys_changePwd.Test_changePwd.test_changePwd",
+  "time" : {
+    "start" : 1554608567075,
+    "stop" : 1554608567262,
+    "duration" : 187
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a8ce479636ebcdc",
+  "name" : "D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_success",
+  "time" : {
+    "start" : 1554608567345,
+    "stop" : 1554608567501,
+    "duration" : 156
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4f5a49d4239363f",
+  "name" : "D:\\Python\\pytestAPI\\testcase\\sys.test_sys_login.Test_login.test_login_usernameParm_not_exist",
+  "time" : {
+    "start" : 1554608567630,
+    "stop" : 1554608567660,
+    "duration" : 30
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

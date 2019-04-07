@@ -1,0 +1,8 @@
+"Status","Name","Duration in ms","Description"
+"passed","testcase.D:\Python\pytestAPI\testcase\sys.test_sys_login.Test_login.test_login_username_not_exists","28",""
+"passed","testcase.D:\Python\pytestAPI\testcase\user.test_user_loadUserList.Test_loadUserList.test_register","250",""
+"passed","testcase.D:\Python\pytestAPI\testcase\sys.test_sys_login.Test_login.test_login_username_null","48",""
+"passed","testcase.D:\Python\pytestAPI\testcase\sys.test_sys_login.Test_login.test_login_passwordError","50",""
+"passed","testcase.D:\Python\pytestAPI\testcase\sys.test_sys_changePwd.Test_changePwd.test_changePwd","187",""
+"passed","testcase.D:\Python\pytestAPI\testcase\sys.test_sys_login.Test_login.test_login_success","156",""
+"passed","testcase.D:\Python\pytestAPI\testcase\sys.test_sys_login.Test_login.test_login_usernameParm_not_exist","30",""
